@@ -1,3 +1,11 @@
+# Para rodar o projeto:
+
+### É necessário dar um `npm install` no terminal do VSCode
+
+### Depois um `npm run backend`
+
+### Abra um segundo terminal e dê um `npm start`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
